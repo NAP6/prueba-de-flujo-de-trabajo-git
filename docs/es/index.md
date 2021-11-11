@@ -34,11 +34,11 @@ Alpaca-Security es un sistema de seguridad, cuyo modelo de negocio, es por un la
 
 ## Que pueden esperar los clientes de 'Alpaca-Security'
 
-- El personal de la empresa que contrate el sistema debe ser alertados cuando una persona con alerta entre al local comercial.
+- El personal de la empresa que contrate el sistema deben ser alertados cuando una persona etiquetada entre al local comercial.
 - Debe permitir identificar a un delincuente, de entre una lista de rostros almacenados por el sistema Alpaca-Security.
 - La lista de rostros debe poder filtrarse por tiempo.
 - El sistema de notificaciones debe ser variado, es decir se debe enviar por diversos medios (mensaje, correo, notificacion de aplicacion)
-- Debe implementar un LogIn que permita acceder y diferenciar al personal de una emresa.
+- Debe implementar un LogIn que permita acceder y diferenciar al personal de una empresa.
 - Debe verificar el levantamiento de una denuncia Judicial, para etiquetar a una persona.
 
 [Puede encontrar aqui todos los casos de uso descritos para el sistema](./comportamiento/casos_de_uso/index.md)
