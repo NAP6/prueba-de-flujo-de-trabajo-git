@@ -40,5 +40,6 @@ Alpaca-Security es un sistema de seguridad, cuyo modelo de negocio, es por un la
 - El sistema de notificaciones debe ser variado, es decir se debe enviar por diversos medios (mensaje, correo, notificacion de aplicacion)
 - Debe implementar un LogIn que permita acceder y diferenciar al personal de una empresa.
 - Debe verificar el levantamiento de una denuncia Judicial, para etiquetar a una persona.
+- Debe proporcionar una interfaz, para que los administrativos de la empresa cliente puedan crear usuarios y monitorear las actividades de sus empleados.
 
 [Puede encontrar aqui todos los casos de uso descritos para el sistema](./comportamiento/casos_de_uso/index.md)
