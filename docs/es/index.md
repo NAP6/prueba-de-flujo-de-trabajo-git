@@ -10,7 +10,7 @@ Con un promedio de 376.5 robos por mes, el horario de 06h00-05h59 ha registrado 
 
 <img src="https://user-images.githubusercontent.com/43932822/141213683-6fc76c4d-1ed5-483c-a1c8-3af94d1d503d.png" alt="fig 1" style="width:400px;"/>
 
-Ademas en este informe se indica que 47% corresponden ha asaltos.
+Ademas en este informe se indica que 47% corresponden a asaltos.
 
 <img src="https://user-images.githubusercontent.com/43932822/141213822-836c637d-5f17-4351-8541-8f73b07148d7.png" alt="fig 1" style="width:400px;"/>
 
