@@ -10,7 +10,7 @@ Con un promedio de 376.5 robos por mes, el horario de 06h00-05h59 ha registrado 
 
 <img src="https://user-images.githubusercontent.com/43932822/141213683-6fc76c4d-1ed5-483c-a1c8-3af94d1d503d.png" alt="fig 1" style="width:400px;"/>
 
-Ademas en este informe se endica que 47% corresponden ha asaltos.
+Ademas en este informe se indica que 47% corresponden ha asaltos.
 
 <img src="https://user-images.githubusercontent.com/43932822/141213822-836c637d-5f17-4351-8541-8f73b07148d7.png" alt="fig 1" style="width:400px;"/>
 
@@ -20,9 +20,9 @@ Es bueno considerar tambien que los lugares que nececitan solucionar con mas urg
 
 ## Solucion
 
-La empresa Alpaca S.A.S ha propuesto el desarrollo de un sistema de seguridad por video vigilacia, que implemente reconocimiento facial, para poder alertar a los dueños de negocios cuando un antisocial registrado entre ha alguno de sus negocios comerciales.
+La empresa Alpaca I.S S.A.S ha propuesto el desarrollo de un sistema de seguridad por video vigilacia, que implemente reconocimiento facial, para poder alertar a los dueños de negocios cuando un antisocial registrado entre ha alguno de sus negocios comerciales.
 
-El sistema deberiía además permitir al personal del negocio, reconocer a la persona que ha realizado alguna fechoria, esto alimentará al sistema de alpaca para brindar un mejor servicio con el tiempo.
+El sistema deberiía además permitir al personal del negocio, reconocer a la persona que ha realizado alguna fechoria, esto alimentará al sistema de Alpaca para brindar un mejor servicio con el tiempo.
 
 > Alpaca-Security pretende ser el eje central de una red de locales comerciales en Ecuador, que reporten a los delincuentes, y se ayuden entre sí.
 
