@@ -1,0 +1,19 @@
+server:
+  port: ${REGISTRY_SERVER_PORT}
+
+eureka:
+  instance:
+    hostname: ${REGISTRY_SERVER_IP}
+    preferIpAddress: true
+    ip-address: ${REGISTRY_SERVER_IP}
+    ignoredInterfaces:
+      - docker
+      - eth.*
+      - lo
+    preferredNetworks:
+      - ${REGISTRY_SERVER_IP}
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${REGISTRY_SERVER_IP}:${REGISTRY_SERVER_PORT}/eureka/

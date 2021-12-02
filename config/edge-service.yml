@@ -1,0 +1,35 @@
+server:
+  port: ${EDGE_SERVER_PORT}
+
+eureka:
+  instance:
+    hostname: ${REGISTRY_SERVER_IP}
+    preferIpAddress: true
+    ip-address: ${REGISTRY_SERVER_IP}
+    ignoredInterfaces:
+      - docker
+      - eth.*
+      - lo
+    preferredNetworks:
+      - ${REGISTRY_SERVER_IP}
+  client:
+    serviceUrl:
+      defaultZone: http://${REGISTRY_SERVER_IP}:${REGISTRY_SERVER_PORT}/eureka/
+
+spring:
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: test-service
+          uri: lb://test-service
+          predicates:
+            - Path=/test-service/**
+            
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
